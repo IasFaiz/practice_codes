@@ -1,0 +1,7 @@
+{
+    "cSpell.autoFormatConfigFile": true,
+    "C_Cpp.clang_format_style": "file",
+"C_Cpp.clang_format_fallbackStyle": "LLVM",
+"editor.formatOnSave": true
+
+}
